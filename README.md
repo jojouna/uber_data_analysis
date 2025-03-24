@@ -1,6 +1,6 @@
 # Uber - Insights from City Supply and Demand Data
 
-This is an analysis of Uber's dataset that contains 2 weeks data of app user and the driver. Please see the [Data Analysis-Uber.ipynb](https://github.com/jojouna/uber_data_analysis/blob/main/Data%20Analysis-Uber.ipynb) to deep dive on how the analysis was performed. 
+This is an analysis of Uber's dataset that contains 2 weeks data of app user and the driver. Please see the [Data Analysis-Uber.ipynb](https://github.com/jojouna/uber_data_analysis/blob/main/Data%20Analysis-Uber.ipynb) to deep dive into how the analysis was performed. 
 
 This readme contains only the answers to the questions. 
 
