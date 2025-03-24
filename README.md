@@ -5,12 +5,12 @@ This is an analysis of Uber's dataset that contains 2 weeks data of app user and
 This readme contains only the answers to the questions. 
 
 ## Data Description
-`Time`: Hour in 24 hours format (e.g 16 = 4pm)
-`Eyeballs`: Number of people who opened the app on that time
-`Zeroes`: Number of people who did not see any car
-`Completed Trips`: Number of trips that were completed
-`Requests`: Number of people who requested the car
-`Unique Drivers`: Total drivers who logged in during that time
+`Time`: Hour in 24 hours format (e.g 16 = 4pm)<br>
+`Eyeballs`: Number of people who opened the app on that time<br>
+`Zeroes`: Number of people who did not see any car<br>
+`Completed Trips`: Number of trips that were completed<br>
+`Requests`: Number of people who requested the car<br>
+`Unique Drivers`: Total drivers who logged in during that time<br>
 
 
 ## Assignment
